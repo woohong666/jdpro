@@ -3,7 +3,7 @@
 一键部署（2.11.3版本青龙）
 使用root用户运行下面一串命令，仅在Centos/Ubuntu系统测试，其他系统自测
 
-curl -sSL https://js.nbplay.site/https://raw.githubusercontent.com/6dylan6/jdpro/main/docker/ql1key.sh -o install.sh && bash install.sh
+curl -sSL https://raw.githubusercontent.com/6dylan6/jdpro/main/docker/ql1key.sh -o install.sh && bash install.sh
 
 声明: 此库所有内容仅用于个人学习！！！
 
